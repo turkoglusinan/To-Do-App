@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ieee2</string>
+    <string name="name">Kullanıcı Adı</string>
+    <string name="password">Sifre</string>
+    <string name="login">Giris Yap</string>
+    <string name="register">Kayıt ol</string>
+</resources>
